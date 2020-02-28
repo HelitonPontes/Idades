@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Heliton\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Heliton\\.nuget\\packages"
+    ]
+  }
+}

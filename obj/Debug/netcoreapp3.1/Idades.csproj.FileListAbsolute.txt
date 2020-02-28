@@ -1,0 +1,11 @@
+C:\Users\Heliton\Source\Repos\Idades\bin\Debug\netcoreapp3.1\Idades.exe
+C:\Users\Heliton\Source\Repos\Idades\bin\Debug\netcoreapp3.1\Idades.deps.json
+C:\Users\Heliton\Source\Repos\Idades\bin\Debug\netcoreapp3.1\Idades.runtimeconfig.json
+C:\Users\Heliton\Source\Repos\Idades\bin\Debug\netcoreapp3.1\Idades.runtimeconfig.dev.json
+C:\Users\Heliton\Source\Repos\Idades\bin\Debug\netcoreapp3.1\Idades.dll
+C:\Users\Heliton\Source\Repos\Idades\bin\Debug\netcoreapp3.1\Idades.pdb
+C:\Users\Heliton\Source\Repos\Idades\obj\Debug\netcoreapp3.1\Idades.csprojAssemblyReference.cache
+C:\Users\Heliton\Source\Repos\Idades\obj\Debug\netcoreapp3.1\Idades.AssemblyInfoInputs.cache
+C:\Users\Heliton\Source\Repos\Idades\obj\Debug\netcoreapp3.1\Idades.AssemblyInfo.cs
+C:\Users\Heliton\Source\Repos\Idades\obj\Debug\netcoreapp3.1\Idades.dll
+C:\Users\Heliton\Source\Repos\Idades\obj\Debug\netcoreapp3.1\Idades.pdb
